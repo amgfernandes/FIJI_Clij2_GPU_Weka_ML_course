@@ -1,1 +1,4 @@
-# FIJI_Clij2_GPU_Weka_ML_course
+# FIJI Clij2 GPU Weka ML course
+
+
+Introduction to Bioimage analysis for Master of Science (M.Sc.) in Neurosciences
