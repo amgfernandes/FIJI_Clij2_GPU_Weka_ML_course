@@ -39,6 +39,6 @@ run("Outline");
 imageCalculator("Add create 32-bit", "original","original-White-lbl-1 Maxima");
 
 //change lookup table
-run("Hi");
+run("HiLo");
 
 setMinAndMax(0, 100);
