@@ -3,7 +3,8 @@
 
 Source of this license text is the [Creative Commons website](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Human-readable summary
+### Human-readable summary
+
 This is a human-readable summary of (and not a substitute for) the license. Find the full license text below.
 
 This course material is under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. You are free to:
