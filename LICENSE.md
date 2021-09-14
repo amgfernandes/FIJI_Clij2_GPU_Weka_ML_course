@@ -1,6 +1,25 @@
-# Attribution-NonCommercial-ShareAlike 4.0 International
+# Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+
+Source of this license text is the [Creative Commons website](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Human-readable summary
+This is a human-readable summary of (and not a substitute for) the license. Find the full license text below.
+
+This course material is under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. You are free to:
+
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+
 
 =======================================================================
+# Attribution-NonCommercial-ShareAlike 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
