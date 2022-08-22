@@ -8,15 +8,15 @@ Introduction to Bioimage analysis for Master of Science (M.Sc.) in Neurosciences
 ## In preparation for the workshop please install in advance:
 
 
-- FIJI: https://imagej.net/software/fiji/
+- ### FIJI: https://imagej.net/software/fiji/
 
 
 
-- Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
+- ### Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
 
 <img src="images/Screenshot_Anaconda.png" alt="Screenshot_Anaconda" width="1200"/>
 
-## Download or use Git to clone this repository: 
+- ### Download or use Git to clone this repository: 
   
 <img src="images/Download_repository.png" alt="Download repository" width="1200"/>
 
