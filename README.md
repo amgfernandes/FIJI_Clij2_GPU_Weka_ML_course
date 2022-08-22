@@ -5,7 +5,7 @@ Introduction to Bioimage analysis for Master of Science (M.Sc.) in Neurosciences
 
 
 
-## In preparation for the workshop please install in advance:
+## In preparation for the course please install in advance:
 
 
 - ### FIJI: https://imagej.net/software/fiji/
