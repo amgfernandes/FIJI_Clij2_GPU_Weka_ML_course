@@ -14,11 +14,11 @@ Introduction to Bioimage analysis for Master of Science (M.Sc.) in Neurosciences
 
 - Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
 
-<img src="images/Screenshot_Anaconda.png" alt="Screenshot_Anaconda" width="600"/>
+<img src="images/Screenshot_Anaconda.png" alt="Screenshot_Anaconda" width="1200"/>
 
 ## Download or use Git to clone this repository: 
   
-<img src="images/Download_repository.png" alt="Download repository" width="600"/>
+<img src="images/Download_repository.png" alt="Download repository" width="1200"/>
 
 You can use `Download ZIP` or Git: `git clone https://github.com/amgfernandes/FIJI_Clij2_GPU_Weka_ML_course.git`
 
