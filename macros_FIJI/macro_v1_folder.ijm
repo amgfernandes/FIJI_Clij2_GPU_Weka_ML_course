@@ -1,7 +1,7 @@
 /* This macro counts the number of plaques 
  *  in a folder with multiple 2D images
  *  
-Author: Miguel Fernandes (IDAF)
+Author: Miguel Fernandes
 Date: 10 Sep 2021
 */
 /*
