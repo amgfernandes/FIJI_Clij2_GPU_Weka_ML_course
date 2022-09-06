@@ -22,6 +22,21 @@ Introduction to Bioimage analysis for Master of Science (M.Sc.) in Neurosciences
 
 You can use `Download ZIP` or Git: `git clone https://github.com/amgfernandes/FIJI_Clij2_GPU_Weka_ML_course.git`
 
+### For the python part:
+
+You can create a new environment called `bioimage`:
+
+```
+cd python_visualization
+
+conda create --name bioimage
+
+conda activate bioimage
+
+conda install pip
+
+pip install -r requirements.txt
+```
 
 ## Bioimage Analysis: Recommended Reading and Viewing:
 - Python: Basics for Data Scientists --> https://github.com/FabrizioMusacchio/Python_Course
