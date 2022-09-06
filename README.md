@@ -29,13 +29,21 @@ You can create a new environment called `bioimage`:
 ```
 cd python_visualization
 
-conda create --name bioimage
+conda create --name bioimage -y
 
 conda activate bioimage
 
-conda install pip
+conda install pip -y
 
 pip install -r requirements.txt
+```
+
+And add your new env kernel to your jupyter
+
+```
+conda install -c anaconda ipykernel
+
+python -m ipykernel install --user --name=bioimage
 ```
 
 ## Bioimage Analysis: Recommended Reading and Viewing:
