@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # %%
 '''Example to load all the individual result files'''
 
-files = glob.glob("5xFAD gr1/results/*Results*.csv")
+files = glob.glob("../5xFAD gr1/results/*Results*.csv")
 file_count = len(files)
 
 print(f"In total we have {file_count} files")
@@ -38,17 +38,17 @@ df
 df.describe()
 
 # %%
-summary_df_gr1 = pd.read_csv('5xFAD gr1/results/Summary.csv')
+summary_df_gr1 = pd.read_csv('../5xFAD gr1/results/Summary.csv')
 summary_df_gr1 ['Group'] = 'Group_1'
 summary_df_gr1
 
 # %%
-summary_df_gr2 = pd.read_csv('5xFAD gr2_WT/results/Summary.csv')
+summary_df_gr2 = pd.read_csv('../5xFAD gr2_WT/results/Summary.csv')
 summary_df_gr2 ['Group'] = 'Group_2'
 summary_df_gr2
 
 # %%
-summary_df_gr3 = pd.read_csv('5xFAD gr3/results/Summary.csv')
+summary_df_gr3 = pd.read_csv('../5xFAD gr3/results/Summary.csv')
 summary_df_gr3 ['Group'] = 'Group_3'
 summary_df_gr3
 
