@@ -10,7 +10,7 @@ Introduction to Bioimage analysis for Master of Science (M.Sc.) in Neurosciences
 
 - ### FIJI: https://imagej.net/software/fiji/
 
-
+<img src="images/Screenshot_FIJI.png" alt="Screenshot_FIJI" width="1200"/>
 
 - ### Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
 
